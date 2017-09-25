@@ -1,0 +1,1 @@
+Simple document with unimportant contents. Made for learning git stuff.
