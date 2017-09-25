@@ -1,2 +1,2 @@
 Simple document with unimportant contents. Made for learning git stuff.
-Added one line here.
+Added one line here. Oh well write whatever.
